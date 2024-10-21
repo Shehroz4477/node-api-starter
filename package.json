@@ -16,5 +16,15 @@
     "helmet": "^8.0.0",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
+    "@types/mysql": "^2.15.26",
+    "@types/node": "^22.7.7",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
   }
 }
